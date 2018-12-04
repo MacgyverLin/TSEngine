@@ -1,0 +1,22 @@
+{
+    "name": "fx1",
+    "clothStyles": {
+        "styles": 0
+    },
+    "clothOffset": {
+        "offset": 0
+    },
+    "parts": [
+        {
+            "name": "1",
+            "imagePath": "fx1_1",
+            "x": 865,
+            "y": 159,
+            "w": 303,
+            "h": 327,
+            "partCoverages": {
+                "coverages": 32768
+            }
+        }
+    ]
+}

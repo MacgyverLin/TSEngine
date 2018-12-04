@@ -1,0 +1,11 @@
+{
+    "compilerOptions": {
+        "module": "amd",
+        "target": "es6",
+        "sourceMap": true,
+        "outDir": "bin",
+        "allowJs": true,
+        "outFile": "bin/app.js",
+        "stripInternal": true
+    }
+}
